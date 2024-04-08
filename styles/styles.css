@@ -1,0 +1,72 @@
+body{
+    background-color: salmon;
+}
+.userIcon{
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+}
+.card1{
+    background-color: rgb(249, 249, 109);
+    border:solid black;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+.card2{
+    background-color: rgb(249, 249, 109);
+    border:solid black;
+    position: absolute;
+    top: 1em;
+    right: 25em;
+    border-radius: 10px;
+    
+    
+}
+.card3{
+    background-color: rgb(249, 249, 109);
+    border:solid black;
+    position: absolute;
+    top: 12em;
+    right: 25em;
+}
+.card4{
+    background-color:  rgb(249, 249, 109);
+    border:solid black;
+    border-radius: 10px;
+   
+}
+.card5{
+    background-color:  rgb(249, 249, 109);
+    border:solid black;
+    border-radius: 10px;
+    height: 100px;
+    position: absolute;
+    top: 1em;
+    right: 35em;
+}
+.card6{
+    background-color:  rgb(249, 249, 109);
+    border:solid black;
+    height: 100px;
+    border-radius: 10px;
+    position: absolute;
+    top: 0em;
+    left: 20em ;
+
+}
+
+.card7{
+    background-color:  rgb(249, 249, 109);
+    border:solid black;
+    height: 100px;
+    border-radius: 10px;
+    position: absolute;
+    top: 15em;
+    right: 20em;
+    
+    
+}
+
+
